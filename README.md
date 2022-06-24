@@ -1,7 +1,7 @@
 # SentimentAnalysisForInstagramComments
 This project focuses on classifying a comment or review into Positive or Negative Comment for an Intagram post. Therefore, implying the sentiment of the reviewer. I have used Naive Bayesian Classifier to do this job. On a impactful level, there are more powerful classifier and models that can score the reviews into a range of scores. The goal of this project is to get familiar with a very basic NLP model and how NLTK modules work as a whole to achieve a bigger goal.
 
-#Restaurant_Reviews.csv
+#Restaurant_Reviews.csv:
 Training data used to train the model which contains reviews and likes for a Restaurant.
 
 #ScrapeInstagramComment.py:
