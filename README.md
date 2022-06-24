@@ -3,6 +3,7 @@ This project focuses on classifying a comment or review into Positive or Negativ
 
 #Restaurant_Reviews.csv
 Training data used to train the model which contains reviews and likes for a Restaurant.
+
 #ScrapeInstagramComment.py:
 Used Instagram API call and a short-lived token to scrape through the already logged in User and finding comments from their own profile posts using post ID which is fetched using get_own_post() function and this post ID acts as input for delete_negative_comments() which not really deletes but divides the comments into Positive and Negative comments.
 
